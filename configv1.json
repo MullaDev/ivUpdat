@@ -78,8 +78,8 @@
     },
     {
       "Name": "GHLO",
-      "FLAG": "",
-      "pInfo": "",
+      "FLAG": "rw",
+      "pInfo": "speed v2ray",
       "isDirect": false,
       "isInject": false,
       "isSSL": false,
@@ -103,8 +103,8 @@
     },
     {
       "Name": "RT tigo  PROX",
-      "FLAG": "",
-      "pInfo": "",
+      "FLAG": "rw",
+      "pInfo": "Fgh",
       "isDirect": false,
       "isInject": true,
       "isSSL": false,
@@ -122,8 +122,8 @@
       "udpUp": "50",
       "v2ray_network_mode": "direct",
       "v2ray_network_host": "",
-      "user_group": "ALL",
-      "tier_visibility": "ALL",
+      "user_group": "LITE",
+      "tier_visibility": "LITE",
       "is_pro": false
     }
   ]
