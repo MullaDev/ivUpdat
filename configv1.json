@@ -1,5 +1,5 @@
 {
-  "Version": "1.0",
+  "Version": 1,
   "ReleaseNotes": "",
   "ReleaseNotes1": "",
   "show_network_list": true,
@@ -48,6 +48,29 @@
       "isCloudfront": true,
       "isDnstt": false,
       "V2ray": "vmess:\/\/eyJ2IjoiMiIsInBzIjoibXBsdXNlNjAtVExTIiwiYWRkIjoiaXBlLmxpdHJvbngueHl6IiwicG9ydCI6NDQzLCJpZCI6ImFlNTE4YmNjLTFkNWEtNGRjZS1iZjdmLTdkZmI0Mzk4ZWM1YiIsImFpZCI6MCwic2N5Ijoibm9uZSIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaXBlLmxpdHJvbngueHl6IiwicGF0aCI6Ilwvdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJtYW5nbzRnLnJ3In0="
+    },
+    {
+      "Name": "German",
+      "ServerIP": "169.58.175.115",
+      "ServerPort": "80",
+      "ServerUser": "Dam9n",
+      "ServerPass": "xcvbnmkhf5467dfg",
+      "ProxyIP": "169.58.175.115",
+      "ProxyPort": "80",
+      "FLAG": "ge",
+      "sInfo": "😃",
+      "info": "😃",
+      "serverMsg": "",
+      "sMsg": "",
+      "server_message": "",
+      "hideServerMsg": true,
+      "hide_server_message": true,
+      "isSsh": true,
+      "isUdp": false,
+      "isV2ray": false,
+      "isSlowDns": false,
+      "isCloudfront": true,
+      "isDnstt": false
     }
   ],
   "Networks": [
