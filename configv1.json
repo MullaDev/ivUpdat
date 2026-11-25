@@ -1,1 +1,49 @@
-
+{
+  "Version": "1.0",
+  "ReleaseNotes": "",
+  "ReleaseNotes1": "",
+  "Servers": [
+    {
+      "Name": "THYV2",
+      "ServerIP": "store.fariskia.biz.id",
+      "ServerPort": "80",
+      "ServerUser": "yangsenifftololanjing",
+      "ServerPass": "keregamampubeliserveryahkokdisniff",
+      "ProxyIP": "store.fariskia.biz.id",
+      "ProxyPort": "80",
+      "FLAG": "",
+      "sInfo": "",
+      "isSsh": true,
+      "isUdp": false,
+      "isV2ray": true,
+      "isSlowDns": false,
+      "isCloudfront": true,
+      "isDnstt": false,
+      "V2ray": "vmess:\/\/eyJ2IjoiMiIsInBzIjoibXBsdXNlNjAtVExTIiwiYWRkIjoiaXBlLmxpdHJvbngueHl6IiwicG9ydCI6NDQzLCJpZCI6ImFlNTE4YmNjLTFkNWEtNGRjZS1iZjdmLTdkZmI0Mzk4ZWM1YiIsImFpZCI6MCwic2N5Ijoibm9uZSIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaXBlLmxpdHJvbngueHl6IiwicGF0aCI6Ilwvdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJtYW5nbzRnLnJ3In0="
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "🥭 MANGO KIOSK",
+      "FLAG": "",
+      "pInfo": "",
+      "isDirect": true,
+      "isInject": false,
+      "isSSL": false,
+      "wsPayload": false,
+      "SlowDns": false,
+      "isUdp": false,
+      "isv2ray": false,
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: mango4g.rw[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "dnsKey": "",
+      "udp_port_range": "20000-50000",
+      "udpDown": "100",
+      "udpUp": "50",
+      "v2ray_network_mode": "direct",
+      "v2ray_network_host": ""
+    }
+  ]
+}
