@@ -1,5 +1,5 @@
 {
-  "Version": 9,
+  "Version": 10,
   "ReleaseNotes": "PREMIUM APP LINK",
   "ReleaseNotes1": "",
   "show_network_list": true,
@@ -27,11 +27,11 @@
   "Servers": [
     {
       "Name": "Netherland",
-      "ServerIP": "store.fariskia.biz.id",
+      "ServerIP": "169.58.175.115",
       "ServerPort": "80",
-      "ServerUser": "yangsenifftololanjing",
-      "ServerPass": "keregamampubeliserveryahkokdisniff",
-      "ProxyIP": "store.fariskia.biz.id",
+      "ServerUser": "Dam9n",
+      "ServerPass": "xcvbnmkhf5467dfg",
+      "ProxyIP": "169.58.175.115",
       "ProxyPort": "80",
       "FLAG": "nl",
       "tier_visibility": "ALL",
@@ -60,10 +60,10 @@
     },
     {
       "Name": "Estonia",
-      "ServerIP": "ee-1.stunnel.cc",
-      "ServerPort": "80",
-      "ServerUser": "tunnel-rw",
-      "ServerPass": "00",
+      "ServerIP": "japan1.boostvpn.shop",
+      "ServerPort": "143",
+      "ServerUser": "boostvpnJP",
+      "ServerPass": "boostvpnJP",
       "ProxyIP": "ee-1.stunnel.cc",
       "ProxyPort": "80",
       "FLAG": "ee",
