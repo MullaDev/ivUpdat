@@ -1,5 +1,5 @@
 {
-  "Version": 5,
+  "Version": 6,
   "ReleaseNotes": "PREMIUM APP LINK",
   "ReleaseNotes1": "",
   "show_network_list": true,
@@ -124,9 +124,9 @@
       "udpUp": "50",
       "v2ray_network_mode": "direct",
       "v2ray_network_host": "",
-      "user_group": "LITE",
-      "tier_visibility": "LITE",
-      "is_pro": false
+      "user_group": "PRO",
+      "tier_visibility": "PRO",
+      "is_pro": true
     },
     {
       "Name": "🥭 MANGO KIOSK",
